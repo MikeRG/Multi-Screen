@@ -1,0 +1,8 @@
+{
+    "uid": "app",
+    "append": true,
+    "watch": true,
+    "script": "main.js",
+		"sourceDir" : "C:\\Users\\bnetz\\Desktop\\Multi-Screen\\"
+    "command": "C:\\Users\\bnetz\\Desktop\\Multi-Screen\\node_modules\\electron-prebuilt\\dist\\electron.exe"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DualDisplay",
+  "version": "1.2.0",
+  "description": "Display on two monitors and restart the process if changes are made to any HTML resources, modules, or source codecd ",
+  "main": "main.js",
+  
+	"scripts": {
+    "start": "electron start.js start forever.json"
+  },
+  
+	"devDependencies": {
+    "electron-prebuilt"	: "^0.36.0",
+		"net" 										: "x",
+		"forever-monitor"		: "x"
+  }
+}
