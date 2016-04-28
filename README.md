@@ -1,0 +1,1 @@
+Display the user login and cell statistics on two screens.
